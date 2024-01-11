@@ -1,1 +1,1 @@
-import '/home/bulat/hexlet-js/src/index.js'
+import './src/index.js'
